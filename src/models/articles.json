@@ -1,0 +1,74 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Healthy Eating Habits",
+    "contents": "Tips and strategies for maintaining a healthy diet and lifestyle.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-06-06T14:30:00Z",
+    "updated_at": "2024-06-06T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Exploring Quantum Computing",
+    "contents": "An introduction to quantum computing and its potential applications.",
+    "created_by_user_id": 5,
+    "is_published": true,
+    "created_at": "2024-06-07T11:15:00Z",
+    "updated_at": "2024-06-07T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "The Future of Electric Vehicles",
+    "contents": "Examining the trends and technologies shaping the future of electric vehicles.",
+    "created_by_user_id": 3,
+    "is_published": true,
+    "created_at": "2024-06-08T16:45:00Z",
+    "updated_at": "2024-06-08T16:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Mindfulness and Meditation",
+    "contents": "A guide to practicing mindfulness and meditation for better mental health.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-06-09T07:30:00Z",
+    "updated_at": "2024-06-09T07:30:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Blockchain Technology Explained",
+    "contents": "An overview of blockchain technology and its potential applications.",
+    "created_by_user_id": 4,
+    "is_published": true,
+    "created_at": "2024-06-10T13:00:00Z",
+    "updated_at": "2024-06-10T13:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Sustainable Living Tips",
+    "contents": "Practical tips for living a more sustainable and eco-friendly lifestyle.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-06-11T10:15:00Z",
+    "updated_at": "2024-06-11T10:15:00Z"
+  },
+  {
+    "id":7,
+    "title": "The History of Space Exploration",
+    "contents": "A look back at the major milestones in the history of space exploration.",
+    "created_by_user_id": 3,
+    "is_published": true,
+    "created_at": "2024-06-12T12:45:00Z",
+    "updated_at": "2024-06-12T12:45:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Artificial Intelligence in Healthcare",
+    "contents": "Exploring the impact of artificial intelligence on the healthcare industry.",
+    "created_by_user_id": 4,
+    "is_published": true,
+    "created_at": "2024-06-13T09:30:00Z",
+    "updated_at": "2024-06-13T09:30:00Z"
+  }]
